@@ -8,7 +8,7 @@ windows用。
 ### 使い方
 ※root権限のコマンドプロンプトで実行してください
 ```
-python3 ./RawSocketTest.py [interface_name] [src_mac_address] [payload]
+python3 ./RawSocketTest.py [interface_name] [src_mac_address] [payload] [jumbo_frame_mode]
 ```
 
 ### 必要なもの
